@@ -20,5 +20,5 @@ Contributing for Aoi.js will grant you the Contributor Role.
 
 Achieving the role will require you to do/be:
 - A member of the Server over three Months / been active sufficiently.
-- Contributed to aoi.js at least five or greater.
+- Contributed to aoi.js at least five times or greater.
 - Knowledge of NodeJS Basics (NodeJS 16.6+)
